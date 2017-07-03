@@ -1,5 +1,2 @@
 Apple
-CheeseCake
-Blueberry
-Raspberry
-Blackberry
+Cake
